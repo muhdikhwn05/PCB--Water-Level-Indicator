@@ -4,6 +4,13 @@ A custom PCB design for a water level indicator using BC337 transistors to trigg
 > 📹 **Video Demonstration:**
 > [![Water Level Indicator Demo](https://img.youtube.com/vi/abWuRlUd3vg/0.jpg)](https://www.youtube.com/watch?v=abWuRlUd3vg)
 
+
+
+## Hardware Design
+<img width="1428" height="561" alt="image" src="https://github.com/user-attachments/assets/aa4de096-7e86-41ff-b60e-3ea2b3eb8e39" />
+
+
+
 ## References & Credits
 * **Original Concept:** Core circuit logic inspired by this [YouTube Tutorial](https://www.youtube.com/watch?v=6KDPmU4elMU).
 ]
